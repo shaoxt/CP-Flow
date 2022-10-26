@@ -11,7 +11,7 @@ pytz==2020.1
 scikit-learn
 scipy
 seaborn==0.9.1
-six==1.15.0
+six>=1.15.0
 subprocess32==3.5.3
 torch
 torchvision
